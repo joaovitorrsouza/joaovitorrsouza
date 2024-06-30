@@ -1,5 +1,5 @@
 # 💫 About Me:
-:books:  Sou estudante de Back-End<br>👯 Estou a procura de um estágio<br>
+:books:  Sou estágiário em Desenvolvimento Back-End
 
 
 ## 🌐 Socials:
